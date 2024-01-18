@@ -1,6 +1,8 @@
 # Student-Enrollement-Form-using-Jsonpowerdb
-this the form created with netbeans html and javascript with powerful and modern database JsonPowerdb by which data filled on form directly got  stored into the database  /n
-#Advantages of jsonPowerDb
+this the form created with netbeans html and javascript with powerful and modern database JsonPowerdb by which data filled on form directly got  stored into the database  
+
+
+# Advantages of jsonPowerDb
 1.Simple to use
 2.In Memory , Real-Time
 3. Schema FRee-Easy to Maintain
